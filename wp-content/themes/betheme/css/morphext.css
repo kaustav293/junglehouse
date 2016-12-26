@@ -1,0 +1,13 @@
+.morphext > .animated {
+    display: inline-block;
+    font-weight: 300;
+}
+.title_wedo {
+	font-size: 45px;
+	line-height: 45px;
+}
+span#js-rotating {
+    font-weight: 300;
+    background-color: #ececec;
+    padding: 0px 8px;
+}

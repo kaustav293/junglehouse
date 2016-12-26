@@ -1,0 +1,267 @@
+body:not(.template-slider) #Header {
+    min-height: 0px;
+}
+#Content {
+    width: 100%;
+    padding-top: 0px;
+}
+.zoom_box .desc {
+	background: rrgba(21,56,70,0.90) !important;
+}
+.column_zoom_box {
+    margin: 0 1% 0px;
+}
+.zoom_box_custom .desc_txt a {
+	text-decoration: none !important;
+	color: #fff;
+}
+.zoom_box_custom .desc_txt a:hover {
+	color: #fff;
+}
+.zoom_box_custom .desc_txt  .small_title {
+	font-size: 24px;
+	font-weight: 300;
+}
+.zoom_box_custom .desc_txt .big_title {
+	font-weight: 600;
+    font-size: 40px;
+    margin: 15px 0px;
+}
+.see_more_button {
+    font-size: 14px;
+    padding: 0px 45px;
+    border: 1px solid #8df92d;
+    display: inline-block;
+    margin-top: 11px;
+    color: #8df92d;
+    font-weight: 600;
+    transition: background-color 0.3s ease;
+}
+.see_more_button:hover {
+	background-color: #8df92d;
+	color: #000;
+	transition: background-color 0.3s ease;
+}
+a.see_more_button {
+	text-decoration: none;
+	font-size: 14px;
+	padding: 4px 16px;
+}
+.slogan {
+    font-size: 26px;
+    color: #fff;
+}
+.work_section_head {
+    color: #092e3d;
+    font-weight: 300;
+    font-size: 35px;
+    margin: 0px;
+}
+#Footer a {
+	text-decoration: none;
+}
+.extraordinary {
+    margin: 0px 39px;
+}
+#overlay-menu ul li a:hover {
+    color: #ffffff;
+    opacity: 1;
+}
+#overlay-menu ul li a:hover:before, #overlay-menu ul li a:hover:after, #overlay-menu ul li a:hover:before, #overlay-menu ul li a:hover:after {
+    opacity: 0;
+}
+#overlay-menu ul li a {
+    font-weight: 700;
+}
+#Top_bar #logo {
+    height: 45px;
+}
+.case_study_heading {
+    margin: 35px 0px;
+}
+#menu-item-48 {
+    position: absolute;
+    left: 0;
+}
+#menu-item-14 {
+    position: absolute;
+    right: 0;
+}
+#menu-item-14 a {
+    font-size: 55px !important;
+}
+#menu-item-48 a {
+    font-size: 55px !important;
+}
+.case_study_wrap {
+    max-width: 1030px;
+    float: none;
+    margin: auto;
+    background: #ffffff;
+}
+.extraordinary {
+    margin: 0px;
+}
+.extraordinary_wrap {
+    max-width: 1030px !important;
+    float: none;
+    margin: auto;
+}
+.extraordinary_text {
+    padding-top: 120px;
+    padding-bottom: 120px;
+    background-color: #153846;
+    margin-bottom: 0px;
+}
+.footer_logo_wrap {
+    padding: 35px 0px;
+}
+.span_text {
+    width: 290px !important;
+    display: inline-block;
+    padding: 10px 8px !important;
+    text-align: left;
+    text-overflow: clip;
+    white-space: nowrap;
+    font-weight: 600;
+}
+.marijuana {
+    margin: 0px;
+}
+.header-overlay.ab-hide #Top_bar {
+   top: 13px !important;
+}
+@media only screen and (min-width: 1240px) {
+    .header-overlay #Top_bar.is-sticky {
+        display: block !important;
+        background-color: #122a42 ;
+        top: 0px !important;
+    }
+}
+.header-overlay .overlay-menu-toggle {
+   top: 8px;
+}
+#Top_bar .logo {
+    margin-left: 0px;
+    position: fixed;
+}
+#Top_bar.is-sticky .logo {
+    margin-left: 0px !important;
+}
+#Top_bar #logo img {
+    max-height: 45px !important;
+}
+#Top_bar #logo, .header-fixed #Top_bar #logo, .header-plain #Top_bar #logo, .header-transparent #Top_bar #logo {
+   height: 45px !important;
+   line-height: 45px !important;
+   padding: 0px 0 !important;
+}
+.contact_us_heading h2 {
+    color: #ffffff;
+    font-weight: 900;
+    font-size: 40px;
+}
+.contact_us_text h2 {
+    color: #424242;
+    font-weight: 600;
+    font-size: 29px;
+}
+.contact_us_text {
+    margin: 0;
+    padding: 80px 0px;
+}
+input.wpcf7-form-control.wpcf7-text.wpcf7-validates-as-required {
+    border-color: transparent;
+    box-shadow: inset 0 0 2px 2px rgba(0, 0, 0, 0);
+}
+span.wpcf7-form-control-wrap {
+    border-bottom: 1px solid #9a9a9a;
+    margin-bottom: 30px;
+}
+input.wpcf7-form-control.wpcf7-submit {
+    margin: 25px 0px !important;
+    overflow: auto;
+    font-size: 16px;
+    font-weight: 500;
+    border: 1px solid #424242;
+    border-radius: 0px;
+    padding: 10px 20px;
+}
+.green_text {
+    padding: 66px 70px 65px 75px;
+}
+.careers_content_text {
+    background: #72c133;
+    margin-right: 0;
+    padding-right: 20px;
+    margin-bottom: 0px;
+}
+.careers_content_text h2 {
+    font-size: 32px;
+    font-weight: 500;
+    color: #0c2b40;
+}
+.careers_content_text h5 {
+    color: #fff;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 20px;
+    margin: 0px;
+}
+.careers_content_text a {
+    color: #0c2b40;
+    font-size: 16px;
+}
+.see_our_work h2 {
+    color: #424242;
+    font-weight: 600;
+    font-size: 29px;
+    margin: 0;
+}
+.see_our_work {
+    margin: 0;
+    padding: 25px 0px;
+}
+.rasselay_logo {
+    width: 120px;
+}
+.design_span {
+    background: #799e2a;
+    color: #ffffff;
+    font-weight: 500;
+    padding: 1px 10px;
+    display: block;
+}
+.case_study_banner {
+    padding: 35px 20px;
+}
+.case_study_banner h2 {
+    color: #ffffff;
+    font-size: 35px;
+    margin-top: 20px;
+    font-weight: 900;
+    letter-spacing: 2px;
+}
+.fresh_drive {
+    margin: 0;
+}
+.fresh_drive_text {
+    padding: 0px 90px;
+}
+.fresh_drive_text h3 {
+    font-size: 18px;
+    color: #000000;
+    font-weight: 600;
+}
+.fresh_drive_text p {
+    font-size: 14px;
+}
+.image_case_study {
+    margin-bottom: 0px;
+}
+.slider_case_study {
+    margin-bottom: 0px;
+}
+.carousel {
+    padding-bottom: 0px !important;
+}
