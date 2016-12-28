@@ -265,3 +265,15 @@ input.wpcf7-form-control.wpcf7-submit {
 .carousel {
     padding-bottom: 0px !important;
 }
+.coming_soon {
+    margin: 0px !important;
+}
+.coming_soon img {
+    width: 100%;
+    position: fixed !important;
+    left: 0;
+    right: 0;
+}
+.coming_soon > .section_wrapper.mcb-section-inner {
+    margin: 0px !important;
+}
