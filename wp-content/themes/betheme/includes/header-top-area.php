@@ -64,13 +64,13 @@
 	if( mfn_header_style( true ) == 'header-overlay' ){
 		
 		// Overlay ----------
-		echo '<div id="Overlay"><div>Logo</div>';
+		echo '<div id="Overlay"><div><img class="logo-main scale-with-grid'. $class .'" src="'. $logo_src .'" alt="'. mfn_get_attachment_data( $logo_src, 'alt' ) .'" '. $width .'/></div>';
 			mfn_wp_overlay_menu();
-		echo '<div>Insta</div></div>';
+		echo '<div></div></div>';
 		
 		// Button ----------
 		echo '<a class="overlay-menu-toggle" href="#">';
-			echo '<i class="open icon-menu"></i>';
+			echo '<i class="open icon-menu"><span class="menu_text">Menu</span></i>';
 			echo '<i class="close icon-cancel"></i>';
 		echo '</a>';
 		

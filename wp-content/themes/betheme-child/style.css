@@ -53,7 +53,7 @@ a.see_more_button {
 }
 .work_section_head {
     color: #092e3d;
-    font-weight: 300;
+    font-weight: 100;
     font-size: 35px;
     margin: 0px;
 }
@@ -72,12 +72,14 @@ a.see_more_button {
 }
 #overlay-menu ul li a {
     font-weight: 700;
+    line-height: 0px;
 }
 #Top_bar #logo {
     height: 45px;
 }
 .case_study_heading {
     margin: 35px 0px;
+    width: 100% !important;
 }
 #menu-item-48 {
     position: absolute;
@@ -134,7 +136,8 @@ a.see_more_button {
 @media only screen and (min-width: 1240px) {
     .header-overlay #Top_bar.is-sticky {
         display: block !important;
-        background-color: #122a42 ;
+        background-color: #092e3d;
+        opacity: 1;
         top: 0px !important;
     }
 }
@@ -149,7 +152,7 @@ a.see_more_button {
     margin-left: 0px !important;
 }
 #Top_bar #logo img {
-    max-height: 45px !important;
+    max-height: 45px;
 }
 #Top_bar #logo, .header-fixed #Top_bar #logo, .header-plain #Top_bar #logo, .header-transparent #Top_bar #logo {
    height: 45px !important;
@@ -163,7 +166,7 @@ a.see_more_button {
 }
 .contact_us_text h2 {
     color: #424242;
-    font-weight: 600;
+    font-weight: 100;
     font-size: 29px;
 }
 .contact_us_text {
@@ -214,7 +217,7 @@ input.wpcf7-form-control.wpcf7-submit {
 }
 .see_our_work h2 {
     color: #424242;
-    font-weight: 600;
+    font-weight: 100;
     font-size: 29px;
     margin: 0;
 }
@@ -231,9 +234,11 @@ input.wpcf7-form-control.wpcf7-submit {
     font-weight: 500;
     padding: 1px 10px;
     display: block;
+    width: 250px;
 }
 .case_study_banner {
     padding: 35px 20px;
+    margin-left: 160px;
 }
 .case_study_banner h2 {
     color: #ffffff;
@@ -276,4 +281,28 @@ input.wpcf7-form-control.wpcf7-submit {
 }
 .coming_soon > .section_wrapper.mcb-section-inner {
     margin: 0px !important;
+}
+.menu_text {
+    position: absolute;
+    right: 45px;
+    font-style: normal;
+    text-transform: uppercase;
+    font-size: 22px;
+    font-weight: 900;
+}
+img.logo-main.scale-with-grid {
+    margin-top: -12px;
+    max-height: 45px !important;
+}
+img.logo-sticky.scale-with-grid {
+    margin-left: -5px;
+    max-height: 46px !important;
+}
+.zoom_box_custom {
+    width: 499px !important;
+    margin-right: 0px;
+    margin-bottom: 5px;
+}
+.case_study_zoombox {
+    margin-bottom: 5px;
 }
