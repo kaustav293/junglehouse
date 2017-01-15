@@ -110,8 +110,8 @@ a.see_more_button {
     margin: auto;
 }
 .extraordinary_text {
-    padding-top: 120px;
-    padding-bottom: 120px;
+    padding-top: 150px;
+    padding-bottom: 150px;
     background-color: #153846;
     margin-bottom: 0px;
 }
@@ -126,6 +126,9 @@ a.see_more_button {
     text-overflow: clip;
     white-space: nowrap;
     font-weight: 600;
+}
+span#js-rotating span {
+    font-weight: 700;
 }
 .marijuana {
     margin: 0px;
@@ -194,7 +197,7 @@ input.wpcf7-form-control.wpcf7-submit {
     padding: 66px 70px 65px 75px;
 }
 .careers_content_text {
-    background: #72c133;
+    background: #8df92d;
     margin-right: 0;
     padding-right: 20px;
     margin-bottom: 0px;
@@ -247,6 +250,26 @@ input.wpcf7-form-control.wpcf7-submit {
     font-weight: 900;
     letter-spacing: 2px;
 }
+.do_mice_case_study {
+    padding: 35px 20px;
+    margin-left: 160px;
+}
+.do_mice_case_study h2 {
+    color: #282828;
+    font-size: 39px;
+    margin-top: 20px;
+    font-weight: 700;
+    letter-spacing: 2px;
+}
+.do_mice_design_span {
+    background: #1ba6fe;
+    color: #ffffff;
+    font-weight: 700;
+    padding: 1px 10px;
+    display: block;
+    width: 423px;
+    letter-spacing: 1px;
+}
 .fresh_drive {
     margin: 0;
 }
@@ -287,8 +310,9 @@ input.wpcf7-form-control.wpcf7-submit {
     right: 45px;
     font-style: normal;
     text-transform: uppercase;
-    font-size: 22px;
-    font-weight: 900;
+    font-size: 14px;
+    font-weight: 700;
+    letter-spacing: 1px;
 }
 img.logo-main.scale-with-grid {
     margin-top: -12px;
@@ -305,4 +329,49 @@ img.logo-sticky.scale-with-grid {
 }
 .case_study_zoombox {
     margin-bottom: 5px;
+}
+.social_header .social a {
+    color: #7c7c7c;
+    display: inline-block;
+    float: none;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+.social_header .social a:hover {
+    color: #ffffff;
+    -webkit-transition: all .3s ease-in-out;
+    -moz-transition: all .3s ease-in-out;
+    -o-transition: all .3s ease-in-out;
+    -ms-transition: all .3s ease-in-out;
+    transition: all .3s ease-in-out;
+}
+.social_header ul li {
+    display: inline;
+}
+.social_header .social a i {
+    font-size: 18px;
+}
+.social_header {
+    position: absolute;
+    width: 100%;
+    bottom: 50px;
+    text-align: center;
+}
+.logo_header img.logo-main.scale-with-grid {
+    margin-top: 8px;
+    margin-left: 37px;
+}
+textarea.wpcf7-form-control.wpcf7-textarea.wpcf7-validates-as-required {
+    border-color: transparent;
+    box-shadow: inset 0 0 2px 2px rgba(0, 0, 0, 0);
+    height: 10px;
+}
+.bx-wrapper {
+    margin-bottom: 0px;
+}
+.slider_thumbnail {
+    margin-bottom: 0px;
 }
