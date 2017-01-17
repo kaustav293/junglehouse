@@ -117,6 +117,7 @@ a.see_more_button {
 }
 .footer_logo_wrap {
     padding: 35px 0px;
+    margin: 0px !important;
 }
 .span_text {
     width: 290px !important;
@@ -247,7 +248,7 @@ input.wpcf7-form-control.wpcf7-submit {
     color: #ffffff;
     font-size: 35px;
     margin-top: 20px;
-    font-weight: 900;
+    font-weight: 700;
     letter-spacing: 2px;
 }
 .do_mice_case_study {
@@ -374,4 +375,10 @@ textarea.wpcf7-form-control.wpcf7-textarea {
 }
 .slider_thumbnail {
     margin-bottom: 0px;
+}
+.bx-wrapper .bx-prev {
+    left: -40px;
+}
+.bx-wrapper .bx-next {
+    right: -40px;
 }
