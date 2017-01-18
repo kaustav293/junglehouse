@@ -18,8 +18,8 @@ body:not(.template-slider) #Header {
 .zoom_box_custom .desc_txt a:hover {
 	color: #fff;
 }
-.zoom_box_custom .desc_txt  .small_title {
-	font-size: 24px;
+.small_title {
+	font-size: 20px;
 	font-weight: 300;
 }
 .big_title {
