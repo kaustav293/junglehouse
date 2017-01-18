@@ -133,6 +133,8 @@ span#js-rotating span {
 }
 .marijuana {
     margin: 0px;
+    position: absolute;
+    right: 0;
 }
 .header-overlay.ab-hide #Top_bar {
    top: 13px !important;
