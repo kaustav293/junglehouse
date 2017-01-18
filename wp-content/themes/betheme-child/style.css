@@ -22,7 +22,7 @@ body:not(.template-slider) #Header {
 	font-size: 24px;
 	font-weight: 300;
 }
-.zoom_box_custom .desc_txt .big_title {
+.big_title {
 	font-weight: 600;
     font-size: 40px;
     margin: 15px 0px;
