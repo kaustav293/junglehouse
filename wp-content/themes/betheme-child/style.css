@@ -274,7 +274,6 @@ input.wpcf7-form-control.wpcf7-submit {
     font-weight: 700;
     padding: 1px 10px;
     display: table;
-    width: 423px;
     letter-spacing: 1px;
 }
 .fresh_drive {
@@ -394,5 +393,5 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     margin: 0px !important;
 }
 .email_logo {
-    
+
 }
