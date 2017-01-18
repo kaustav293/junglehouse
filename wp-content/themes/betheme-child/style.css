@@ -388,3 +388,8 @@ textarea.wpcf7-form-control.wpcf7-textarea {
 .bx-wrapper .bx-next {
     right: -40px;
 }
+.wpcf7-response-output.wpcf7-display-none.wpcf7-mail-sent-ok {
+    background: #8df92d !important;
+    color: #092e3d;
+    margin: 0px !important;
+}
