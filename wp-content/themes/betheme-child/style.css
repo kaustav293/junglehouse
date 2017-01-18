@@ -165,7 +165,7 @@ span#js-rotating span {
 }
 .contact_us_heading h2 {
     color: #ffffff;
-    font-weight: 900;
+    font-weight: 700;
     font-size: 40px;
 }
 .contact_us_text h2 {
@@ -196,6 +196,10 @@ input.wpcf7-form-control.wpcf7-submit {
 }
 .green_text {
     padding: 66px 70px 65px 75px;
+}
+.green_text h4 {
+    font-size: 18px;
+    font-weight: 700;
 }
 .careers_content_text {
     background: #8df92d;
