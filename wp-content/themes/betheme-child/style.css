@@ -461,10 +461,19 @@ textarea.wpcf7-form-control.wpcf7-textarea {
         padding: 18px 10px;
         background: #8df92d;
     }
+    .careers_content_text {
+        background: transparent;
+        margin: 0px !important;
+    }
     .careers_content_text h2 {
         font-size: 26px;
     }
     .careers_content_text h5 {
         font-size: 14px;
+    }
+    .contact_us {
+        width: 90% !important;
+        float: none;
+        margin: 0 auto;
     }
 }
