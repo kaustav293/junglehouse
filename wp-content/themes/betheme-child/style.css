@@ -402,9 +402,28 @@ textarea.wpcf7-form-control.wpcf7-textarea {
 }
 @media only screen and (max-width: 767px) {
       body:not(.template-slider):not(.header-simple) #Header {
-             min-height: 0px;
+         min-height: 0px;
       }
       #Top_bar .top_bar_left {
-             margin-top: 0px;
+         margin-top: 0px;
+     }
+     .work_section_head {
+        line-height: 50px;
+        margin-top: 15px;
+        font-size: 32px;
+     }
+     .small_title {
+        line-height: 25px;
+     }
+     .big_title {
+        line-height: 40px;
+        font-size: 32px;
+     }
+     .see_more_button {
+        font-size: 16px;
+        padding: 10px 45px;
+     }
+     .slogan {
+        line-height: 30px;
      }
 }
