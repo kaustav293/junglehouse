@@ -499,4 +499,14 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     #menu-item-48 a {
         font-size: 28px !important;
     }
+    #Top_bar, #Action_bar {
+        background: #23415b !important;
+        position: fixed;
+    }
+    .header-overlay.ab-hide #Top_bar {
+        top: 0px !important;
+    }
+    #Top_bar .logo {
+        position: relative;
+    }
 }
