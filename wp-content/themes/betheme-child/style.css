@@ -457,4 +457,14 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     .see_our_work {
         margin: 0px !important;
     }
+    .green_text {
+        padding: 18px 10px;
+        background: #8df92d;
+    }
+    .careers_content_text h2 {
+        font-size: 26px;
+    }
+    .careers_content_text h5 {
+        font-size: 14px;
+    }
 }
