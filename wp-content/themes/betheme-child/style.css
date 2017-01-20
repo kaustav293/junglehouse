@@ -139,13 +139,11 @@ span#js-rotating span {
 .header-overlay.ab-hide #Top_bar {
    top: 13px !important;
 }
-@media only screen and (min-width: 1240px) {
-    .header-overlay #Top_bar.is-sticky {
-        display: block !important;
-        background-color: #092e3d;
-        opacity: 1;
-        top: 0px !important;
-    }
+.header-overlay #Top_bar.is-sticky {
+    display: block !important;
+    background-color: #092e3d;
+    opacity: 1;
+    top: 0px !important;
 }
 .header-overlay .overlay-menu-toggle {
    top: 8px;
@@ -394,4 +392,19 @@ textarea.wpcf7-form-control.wpcf7-textarea {
 }
 .email_logo {
 
+}
+@media only screen and (max-width: 1240px) {
+      .zoom_box_custom {
+            width: 48% !important;
+            margin-right: 6px;
+            margin-bottom: 5px;
+      }
+}
+@media only screen and (max-width: 767px) {
+      body:not(.template-slider):not(.header-simple) #Header {
+             min-height: 0px;
+      }
+      #Top_bar .top_bar_left {
+             margin-top: 0px;
+     }
 }
