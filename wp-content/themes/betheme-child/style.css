@@ -480,4 +480,16 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     .zoom_box_custom {
         margin-bottom: 0px !important;
     }
+    #menu-item-48 {
+        position: relative;
+    }
+    #menu-item-14 {
+        position: relative;
+    }
+    #menu-item-14 a {
+        font-size: 28px !important;
+    }
+    #menu-item-48 a {
+        font-size: 28px !important;
+    }
 }
