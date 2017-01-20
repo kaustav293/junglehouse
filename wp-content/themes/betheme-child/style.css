@@ -410,7 +410,8 @@ textarea.wpcf7-form-control.wpcf7-textarea {
      .work_section_head {
         line-height: 35px;
         margin-top: 15px;
-        font-size: 28px;
+        font-size: 16px;
+        font-weight: 500;
      }
      .small_title {
         line-height: 25px;
@@ -427,10 +428,10 @@ textarea.wpcf7-form-control.wpcf7-textarea {
         line-height: 30px;
      }
      .title_wedo {
-        font-size: 32px;
+        font-size: 26px;
      }
      .span_text {
-        width: 250px !important;
+        width: 180px !important;
         padding: 5px 8px !important;
      }
      .do_mice_case_study h2 {
@@ -475,5 +476,8 @@ textarea.wpcf7-form-control.wpcf7-textarea {
         width: 90% !important;
         float: none;
         margin: 0 auto;
+    }
+    .zoom_box_custom {
+        margin-bottom: 0px !important;
     }
 }
