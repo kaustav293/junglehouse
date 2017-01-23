@@ -455,13 +455,16 @@ textarea.wpcf7-form-control.wpcf7-textarea {
      .span_text {
         width: 180px !important;
         padding: 5px 8px !important;
-     }
+    }
      .do_mice_case_study h2 {
         font-size: 24px;
         margin-top: 10px;
         line-height: 25px;
-     }
-     .fresh_drive_text {
+    }
+    .fresh_drive {
+        margin-bottom: 0px;
+    }
+    .fresh_drive_text {
         padding: 0px 10px;
     }
     .case_study_wrap {
