@@ -552,11 +552,11 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     }
     .logo_header img.logo-main.scale-with-grid {
         margin-top: 5px;
-        margin-left: 34px;
+        margin-left: 18px;
     }
     #Top_bar #logo img {
         position: absolute;
-        left: 0;
+        left: -15px;
     }
     .header-overlay .overlay-menu-toggle {
         top: 5px;
@@ -569,7 +569,7 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     }
     .logo_header img.logo-main.scale-with-grid {
         margin-top: 10px !important;
-        margin-left: 34px !important;
+        margin-left: 18px !important;
         max-height: 35px !important;
     }
 }
