@@ -561,6 +561,9 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     .header-overlay .overlay-menu-toggle {
         top: 5px;
     }
+    .menu_text {
+        display: none;
+    }
 }
 @media only screen and (max-width: 480px) {
     #Top_bar #logo img {
