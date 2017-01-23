@@ -293,6 +293,11 @@ input.wpcf7-form-control.wpcf7-submit {
 .fresh_drive_text p {
     font-size: 14px;
 }
+.page_name h3 {
+    font-size: 18px;
+    color: #000000;
+    font-weight: 600;
+}
 .image_case_study {
     margin-bottom: 0px;
 }
