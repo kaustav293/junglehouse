@@ -404,6 +404,9 @@ textarea.wpcf7-form-control.wpcf7-textarea {
 .email_logo {
 
 }
+.header-overlay.sticky-header .overlay-menu-toggle {
+    margin-right: 5px;
+}
 @media only screen and (max-width: 1240px) {
       .zoom_box_custom {
             width: 48% !important;
