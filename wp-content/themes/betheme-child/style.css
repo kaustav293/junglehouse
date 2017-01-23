@@ -554,14 +554,14 @@ textarea.wpcf7-form-control.wpcf7-textarea {
         margin-left: 34px;
     }
 }
-@media only screen and (max-width: 767px) {
+@media only screen and (max-width: 480px) {
     #Top_bar #logo img {
-        max-height: 35px;
-        top: 8px;
+        max-height: 35px !important;
+        top: 8px !important;
     }
     .logo_header img.logo-main.scale-with-grid {
-        margin-top: 13px;
-        margin-left: 34px;
-        max-height: 35px;
+        margin-top: 13px !important;
+        margin-left: 34px !important;
+        max-height: 35px !important;
     }
 }
