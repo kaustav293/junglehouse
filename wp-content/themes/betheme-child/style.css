@@ -255,9 +255,13 @@ input.wpcf7-form-control.wpcf7-submit {
     font-weight: 700;
     letter-spacing: 2px;
 }
+.main_case_study {
+    max-width: 1030px;
+    float: none;
+    margin: auto;
+}
 .do_mice_case_study {
-    padding: 35px 20px;
-    margin-left: 160px;
+    padding: 0px 90px;
 }
 .do_mice_case_study h2 {
     color: #282828;
