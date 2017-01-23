@@ -149,8 +149,9 @@ span#js-rotating span {
    top: 8px;
 }
 #Top_bar .logo {
-    margin-left: 0px;
+    margin-left: 10px;
     position: fixed;
+    left: 35px;
 }
 #Top_bar.is-sticky .logo {
     margin-left: 0px !important;
@@ -333,8 +334,8 @@ img.logo-main.scale-with-grid {
     max-height: 45px !important;
 }
 img.logo-sticky.scale-with-grid {
-    margin-left: -5px;
-    max-height: 46px !important;
+    margin-left: 10px;
+    max-height: 45px !important;
 }
 .zoom_box_custom {
     width: 499px !important;
@@ -376,7 +377,7 @@ img.logo-sticky.scale-with-grid {
 }
 .logo_header img.logo-main.scale-with-grid {
     margin-top: 8px;
-    margin-left: 37px;
+    margin-left: 45px;
 }
 textarea.wpcf7-form-control.wpcf7-textarea {
     border-color: transparent;
