@@ -548,10 +548,18 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     #Top_bar .logo #logo {
         margin-left: 0px;
         margin-right: 0px;
+        margin-bottom: 5px;
     }
     .logo_header img.logo-main.scale-with-grid {
         margin-top: 5px;
         margin-left: 34px;
+    }
+    #Top_bar #logo img {
+        position: absolute;
+        left: 0;
+    }
+    .header-overlay .overlay-menu-toggle {
+        top: 5px;
     }
 }
 @media only screen and (max-width: 480px) {
