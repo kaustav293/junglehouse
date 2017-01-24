@@ -113,7 +113,7 @@ a.see_more_button {
     padding-top: 150px;
     padding-bottom: 150px;
     background-color: #153846;
-    margin-bottom: 0px;
+    margin-bottom: 0px !important;
 }
 .footer_logo_wrap {
     padding: 35px 0px;
