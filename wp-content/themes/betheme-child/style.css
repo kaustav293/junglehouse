@@ -564,6 +564,12 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     .menu_text {
         display: none;
     }
+    .bx-wrapper .bx-prev {
+        display: none;
+    }
+    .bx-wrapper .bx-next {
+        display: none;
+    }
 }
 @media only screen and (max-width: 480px) {
     #Top_bar #logo img {
