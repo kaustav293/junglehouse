@@ -474,13 +474,15 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     }
      .do_mice_case_study h2 {
         font-size: 18px;
-        margin-top: 10px;
-        line-height: 15px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        line-height: 25px;
     }
     .case_study_banner h2 {
         font-size: 18px;
-        margin-top: 10px;
-        line-height: 15px;
+        margin-top: 0px;
+        margin-bottom: 0px;
+        line-height: 25px;
     }
     .fresh_drive {
         margin-bottom: 0px !important;
@@ -492,9 +494,9 @@ textarea.wpcf7-form-control.wpcf7-textarea {
         padding: 20px 0px !important;
     }
     .contact_us_heading h2 {
-        font-size: 32px;
+        font-size: 20px;
         line-height: 35px;
-        margin-bottom: 5px;
+        margin-bottom: 0px;
     }
     .contact_us_text h2 {
         font-size: 26px;
@@ -579,6 +581,9 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     .extraordinary_text {
         padding-top: 80px;
         padding-bottom: 80px;
+    }
+    .do_mice_design_span {
+        margin-bottom: 20px;
     }
 }
 @media only screen and (max-width: 480px) {
