@@ -530,6 +530,7 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     }
     .zoom_box_custom {
         margin-bottom: 0px !important;
+        width: 100% !important;
     }
     #menu-item-48 {
         position: relative;
