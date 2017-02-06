@@ -526,7 +526,7 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     .contact_us {
         width: 90% !important;
         float: none;
-        margin: 0 auto;
+        margin: 0 auto !important;
     }
     .zoom_box_custom {
         margin-bottom: 0px !important;
@@ -604,5 +604,8 @@ textarea.wpcf7-form-control.wpcf7-textarea {
         margin-top: 10px !important;
         margin-left: 18px !important;
         max-height: 35px !important;
+    }
+    .do_mice_design_span {
+        font-size: 7px;
     }
 }

@@ -659,7 +659,7 @@ html,body{overflow-x:hidden}
 	.section_wrapper .column,
     .container .column,
 	.sections_group,
-	.four.columns					{ margin:0; width: 100% !important; clear: both; }
+	.four.columns					{ margin:0; width: 100%; clear: both; }
 	.aside_both .sections_group		{ margin:0 auto !important;}
 	
 	.section_wrapper,
