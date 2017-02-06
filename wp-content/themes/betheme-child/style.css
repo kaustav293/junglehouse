@@ -343,9 +343,12 @@ img.logo-sticky.scale-with-grid {
     max-height: 45px !important;
 }
 .zoom_box_custom {
-    width: 499px !important;
-    margin-right: 0px;
-    margin-bottom: 5px;
+    width: 50% !important;
+    margin: 0px !important;
+}
+.zoombox_custom_fullcover {
+    width: 100% !important;
+    margin: 0px !important;
 }
 .case_study_zoombox {
     margin-bottom: 5px;
@@ -422,11 +425,16 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     border-radius: 0px;
 }
 @media only screen and (max-width: 1240px) {
-      .zoom_box_custom {
-            width: 48% !important;
-            margin-right: 6px;
-            margin-bottom: 5px;
-      }
+    .zoom_box_custom {
+        width: 50% !important;
+        margin-right: 0px;
+        margin-bottom: 0px;
+        margin-left: 0px;
+    }
+    .zoombox_custom_fullcover {
+        width: 100% !important;
+        margin: 0px !important;
+    }
 }
 @media only screen and (max-width: 767px) {
       body:not(.template-slider):not(.header-simple) #Header {
