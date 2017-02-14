@@ -626,4 +626,7 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     .do_mice_design_span {
         font-size: 7px;
     }
+    input.wpcf7-form-control.wpcf7-submit {
+        width: 100%;
+    }
 }
