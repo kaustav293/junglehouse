@@ -114,6 +114,8 @@ a.see_more_button {
     padding-bottom: 150px;
     background-color: #153846;
     margin-bottom: 0px !important;
+    width: 100% !important;
+    margin: 0 auto;
 }
 .footer_logo_wrap {
     padding: 35px 0px;
