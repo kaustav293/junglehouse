@@ -32,7 +32,7 @@
 		if( $('body').hasClass('sticky-header') ){	
 
 			if($('body').hasClass('home')){
-                var start_y = mfn_header_height + 2100;
+                var start_y = mfn_header_height + $("#scroll_slider").height();
                 var window_y = $(window).scrollTop();
 
                 if( window_y > start_y ){
