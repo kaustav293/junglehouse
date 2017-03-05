@@ -629,4 +629,10 @@ textarea.wpcf7-form-control.wpcf7-textarea {
     input.wpcf7-form-control.wpcf7-submit {
         width: 100%;
     }
+    .fresh_drive_text h3 {
+        text-align: center;
+    }
+    .page_name h3 {
+        text-align: center;
+    }
 }
