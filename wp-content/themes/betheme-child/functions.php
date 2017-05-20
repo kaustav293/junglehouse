@@ -53,4 +53,11 @@ function add_theme_scripts() {
 
 }
 add_action( 'wp_enqueue_scripts', 'add_theme_scripts' );
+
+function add_junglehouse_scroll_js() {
+
+	wp_enqueue_script('scrolljs', get_template_directory_uri() . '/js/jquery.pagepiling.min.js');
+
+}
+add_action( 'wp_enqueue_scripts', 'add_junglehouse_scroll_js' );
 ?>
